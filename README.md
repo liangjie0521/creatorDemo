@@ -1,4 +1,8 @@
 # 用cocos Creator做3D球体自转、公转，触摸旋转小球
+### 具体效果   
+<video id="demo" controls="" preload="none" poster="2E096A079D4A93A2A7D9EB8729D568D8.png">
+	<source id="mp4" src="QQ20191121-214644-HD.mp4" type="video/mp4">
+</video>
 
 ### 3D球体自转   
 3D球体的自转主要是通过在每一帧修改球体节点的欧拉角实现的   
